@@ -1,5 +1,5 @@
 # iOSActivities
-iOS projects I have created for my Development for Mobile Devices class
+iOS projects I have created for my Development for Mobile Devices class.
 
 ## Actividad1 - Slider Animation and Segmented Control
 <img src="https://github.com/lorena-ang/iOSActivities/blob/main/DemoImages/Actividad1.png" width="350">
